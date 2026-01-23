@@ -50,7 +50,7 @@ Step 8: Stop.
 
 A list is a collection of elements that can store multiple values in a single variable. Lists are ordered, changeable, and allow duplicate values. Elements in a list can be accessed using their index number.
 
----
+
 
 ### Functions
 
@@ -84,7 +84,7 @@ Used to calculate the total of all elements in a numeric list.
 **extend()**:
 Used to combine one list with another list.
 
----
+
 
 ### Methods
 
