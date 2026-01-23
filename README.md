@@ -1,4 +1,4 @@
-# Experiment: Study of Lists in Python
+# Experiment 2:
 
 ---
 
