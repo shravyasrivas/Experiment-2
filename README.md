@@ -100,4 +100,3 @@ From this experiment, we learned how to create and use lists in Python. We under
 
 ---
 
-Would you like me to format the Tuple experiment (Experiment 3) in this exact same way for your records?
